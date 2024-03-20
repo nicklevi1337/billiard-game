@@ -1,0 +1,32 @@
+.button-container {
+    display        : flex;
+    justify-content: space-around;
+}
+
+.button-blue {
+    background-color: transparent;
+    border          : none;
+    cursor          : pointer;
+    background-color: rgb(98, 168, 230);
+}
+
+.button-red {
+    background-color: transparent;
+    border          : none;
+    cursor          : pointer;
+    background-color: rgb(233, 65, 65);
+}
+
+.button-green {
+    background-color: transparent;
+    border          : none;
+    cursor          : pointer;
+    background-color: rgb(65, 228, 47);
+}
+
+.button-yellow {
+    background-color: transparent;
+    border          : none;
+    cursor          : pointer;
+    background-color: rgb(193, 209, 51);
+}

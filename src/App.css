@@ -1,13 +1,18 @@
+.App {
+    display        : 'flex';
+    justify-content: 'center';
+    align-items    : 'center';
+
+}
 
 .App-header {
-display: flex;
-justify-content: center;
+    display        : flex;
+    justify-content: center;
 
 }
 
 .billiard {
-display: flex;
-justify-content: center;
+    display        : flex;
+    justify-content: center;
 
 }
-
