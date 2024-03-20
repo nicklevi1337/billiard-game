@@ -6,3 +6,4 @@
 
 * React, TS, Canvas
 
+## Ссылка на проект - <https://nicklevi1337.github.io/billiard-game/>
