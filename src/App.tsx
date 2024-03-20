@@ -1,4 +1,21 @@
 import React from 'react';
+import BilliardsGame from './components/Canvas';
+
+const App: React.FC = () => {
+  return (
+    <div className="App">
+      <h1>Billiards Game</h1>
+      <BilliardsGame />
+    </div>
+  );
+};
+
+export default App;
+
+
+/*
+
+import React from 'react';
 import Canvas from './components/Canvas';
 import './App.css';
 
@@ -16,3 +33,5 @@ function App() {
 }
 
 export default App;
+
+*/
