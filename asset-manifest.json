@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/billiard-game/static/css/main.bbc64838.css",
+    "main.js": "/billiard-game/static/js/main.f0067e96.js",
+    "index.html": "/billiard-game/index.html",
+    "main.bbc64838.css.map": "/billiard-game/static/css/main.bbc64838.css.map",
+    "main.f0067e96.js.map": "/billiard-game/static/js/main.f0067e96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbc64838.css",
+    "static/js/main.f0067e96.js"
+  ]
+}
